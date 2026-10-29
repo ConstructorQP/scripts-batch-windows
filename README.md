@@ -17,7 +17,7 @@ Scripts `.bat` de la asignatura *Implantación de Sistemas Operativos* (ASIR) pa
 Descarga el repositorio y haz doble clic en el `.bat`, o ejecútalo desde CMD:
 
 ```cmd
-cd DeberesISO
+cd scripts-batch-windows
 Nombre.bat
 ```
 
@@ -25,4 +25,4 @@ Revisa las rutas de origen y destino de `Copiar ficheros de un sitio a otro.bat`
 
 ## Relacionado
 
-Automatización más avanzada en Windows con PowerShell: [POWERSHELL](https://github.com/ConstructorQP/POWERSHELL).
+Automatización más avanzada en Windows con PowerShell: [scripts-powershell](https://github.com/ConstructorQP/scripts-powershell).
